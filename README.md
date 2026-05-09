@@ -27,8 +27,7 @@
 - SOC Investigations
 - Threat Hunting
 - Malware & Log Analysis
-- Blue Teaming
-
+- Blue Teaming.
 
  Featured Projects
 
@@ -38,12 +37,10 @@
 🔹 CTF Writeups & Notes  
 
 
-
  Connect With Me
 
-- LinkedIn: YOUR_LINK
+- LinkedIn: https://www.linkedin.com/in/mahima-pandey10?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub: https://github.com/Mahimapandey-10
-
 
 
 > “Every expert was once a beginner who kept showing up.”
