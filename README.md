@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:2E9EF7&height=220&section=header&text=Mahima%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%26%20SOC%20Enthusiast%20%7C%20B.Tech%20CSE%20(IoT%20%26%20Cybersecurity)&descAlignY=58&descSize=18" width="100%"/>
+# Hi there, I'm Mahima Pandey 👋
+
+### 🔐 Cybersecurity & SOC Enthusiast | 🎓 B.Tech CSE (IoT & Cybersecurity)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=750&lines=SOC+Level+1+%7C+SIEM+Alert+Triage+%7C+Log+Analysis;Blue+Team+Operations+%26+Threat+Detection;CTF+Player+%7C+Digital+Forensics+%7C+OSINT;Building+%26+Breaking+Things+to+Learn+How+They+Work" alt="Typing SVG" />
 
@@ -17,8 +19,6 @@
 <br/>
 
 ## 🧭 About Me
-
-<img align="right" width="270" src="https://raw.githubusercontent.com/devicons/devicon-cdn/master/svg/linux/linux-original.svg" />
 
 ```yaml
 name: Mahima Pandey
@@ -144,27 +144,6 @@ Multi-page productivity web app with planner, journal & flashcard features. Resp
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahimapandey-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahimapandey-10&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahimapandey-10&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahimapandey-10&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -177,6 +156,5 @@ Multi-page productivity web app with planner, journal & flashcard features. Resp
 
 <i>"Every expert was once a beginner who kept showing up."</i>
 
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0f2027&height=100&section=footer" width="100%"/>
+</div>
